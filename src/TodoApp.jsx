@@ -38,7 +38,7 @@ function TodoApp() {
             setTask(event.target.value);
           }}
         ></input>
-        <button type="submit">Add</button>
+        <button type="submit">Add Todo</button>
       </form>
 
       <ul>
